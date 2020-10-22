@@ -1,0 +1,8 @@
+div{
+    height:40;
+    width:40;
+    border-radius: 50%;
+    background-color:red;
+    display:inline-block;
+    margin:5rem;
+}
