@@ -1,0 +1,33 @@
+.font{
+    /* font-family:Verdana; */
+    margin: 10%;
+
+}
+body{
+    background:purple;
+}
+
+.wrapper{
+    width: 100%;
+    max-width: 960px;
+    margin: 0;
+}
+
+.flex-container
+{
+    display: flex;
+    background: wheat;
+}
+.box{
+    height: 100px;
+    min-width: 100px;
+}
+.one {
+background: red;
+}
+.two{
+    background: blue;
+}
+.three{
+    background: green;
+}
