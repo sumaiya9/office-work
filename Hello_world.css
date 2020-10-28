@@ -1,0 +1,21 @@
+body{
+   background-color: rgb(236, 207, 207) ;
+   font-style: italic;
+   color: wheat;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight:bold;
+  line-height:1.6em;
+
+} 
+.container{
+  width: 80%;
+  margin: auto;
+
+}
+.box-1{
+  background-color: rgb(36, 33, 33);
+ color: #fff;
+  border:10px blue solid;
+ 
+}
