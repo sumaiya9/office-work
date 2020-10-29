@@ -1,7 +1,7 @@
 body{
-   background-color: rgb(236, 207, 207) ;
+   background-color: rgb(170, 67, 67) ;
    font-style: italic;
-   color: wheat;
+   color: rgb(201, 190, 169);
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
   font-weight:bold;
@@ -18,4 +18,36 @@ body{
  color: #fff;
   border:10px blue solid;
  
+}
+.box-2{
+  background-color: rgb(196, 186, 212);
+ color: rgb(24, 21, 21);
+  border:10px purple solid ;
+  margin-top: 10px;
+  padding: 2rem;
+}
+
+.box-3{
+  background-color: rgb(230, 213, 216);
+ color: rgb(24, 21, 21);
+  border:10px black solid ;
+  margin-top: 5px;
+  padding: 1rem;
+}
+.box-3 h1{
+  text-align: center;
+}
+.box-3 ul{
+  padding: 0%;
+  list-style: square;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+a:hover{
+  color:blue;
+}
+a:active{
+  color:red;
 }
